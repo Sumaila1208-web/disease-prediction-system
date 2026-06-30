@@ -7,7 +7,7 @@ Deployed as an interactive **Streamlit web application**.
 ---
 
 ## 🔗 Live Demo
-> [Click here to try the app](#) ← *(link added after deployment)*
+> [🔗 Click here to try the live app](https://disease-prediction-system-xqcqdpddxkaeqqb4z6fv6b.streamlit.app/)
 
 ---
 
